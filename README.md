@@ -1,4 +1,4 @@
-## this is a humidity sensor Arduino project
+# this is a humidity sensor Arduino project
 
 ## reason
 During summer it is very hot. It is important to view and monitor real time temperature.
