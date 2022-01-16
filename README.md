@@ -7,14 +7,6 @@ Sometimes our plants dried out due to heat. Using this project we can keep a tra
 
 
 
-# Color Test Document
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
-
-## Second Heading
-
-This is a test to see how the colors work.
+<span style="color: red;">text</span>.
 
 ![screenshot](https://github.com/kunsh13/Humidity-Temperature-Project/blob/79306f16749c07826c5e7cfd64adffa03479fad4/images/pic.jpeg)
