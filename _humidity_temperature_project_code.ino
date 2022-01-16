@@ -1,6 +1,6 @@
 /*Code start
 Made  by kunsh13
-refer to videeo https://youtu.be/dFksEX6Vnfc
+refer to video https://youtu.be/dFksEX6Vnfc
   Humidity meter with DHT11 , 22 or 21, Arduino and I2c OLED display support displaying sensor error and configuring deg C or deg F also display temperatre in serial monitor
 */
 
