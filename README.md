@@ -7,9 +7,8 @@
 Also visit: https://create.arduino.cc/projecthub/kunshmaurya/humidity-temperature-project-442460 
 
 
+[![Iimage link](https://github.com/kunsh13/Humidity-Temperature-Project/blob/79306f16749c07826c5e7cfd64adffa03479fad4/images/pic.jpeg))](https://www.youtube.com/watch?v=dFksEX6Vnfc)
 
 
 
 
-
-![screenshot](https://github.com/kunsh13/Humidity-Temperature-Project/blob/79306f16749c07826c5e7cfd64adffa03479fad4/images/pic.jpeg)
